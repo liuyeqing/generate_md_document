@@ -1,0 +1,14 @@
+{
+  "name": "generate_md_document",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/parser": "^7.22.16",
+    "@babel/traverse": "^7.22.15",
+    "acorn": "^8.10.0",
+    "vue-template-compiler": "^2.7.14"
+  }
+}
